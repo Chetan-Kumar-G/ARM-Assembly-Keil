@@ -77,40 +77,7 @@ A collection of beginner-friendly ARM Assembly programs covering the most common
 - MUL
 - MLA
 
----
 
-# 📂 Repository Structure
-
-```
-ARM-Assembly-Keil-Examples
-│
-├── MOV
-├── MVN
-├── ADD
-├── ADC
-├── SUB
-├── SBC
-├── RSB
-├── RSC
-├── AND
-├── ORR
-├── EOR
-├── BIC
-├── LSL
-├── LSR
-├── ASR
-├── ROR
-├── RRX
-├── CMP
-├── CMN
-├── TST
-├── TEQ
-├── MUL
-├── MLA
-└── README.md
-```
-
----
 
 # 💻 Requirements
 
